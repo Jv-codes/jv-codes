@@ -1,4 +1,4 @@
-#  💻  jv-codes
+#  💻  João Vitor
 
 Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e contribuições :)
 
