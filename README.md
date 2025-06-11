@@ -41,5 +41,5 @@ Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e con
 ## 🪪 Sobre mim
 
 - Atualmente sou estudante de **Licenciatura em Ciência da Computação** na **Universidade Federal da Paraíba – Campus IV**  
-- Tenho me dedicado aos estudos de **Java** e **Python**, com foco no **desenvolvimento back-end**  
+- Aprendendo Java e Python, com foco no desenvolvimento back-end 
 - Estou explorando a **Base Nacional Comum Curricular (BNCC)** na área de Computação, buscando compreender como ela pode ser aplicada na prática e integrada com outras áreas do conhecimento  
