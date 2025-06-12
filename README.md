@@ -11,8 +11,8 @@ Bem-vindo(a) ao meu perfil GitHub! Aqui compartilho meus projetos, estudos e con
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jv-codes&show_icons=true&theme=dark&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-codes&layout=compact&theme=dark&langs_count=6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jv-codes&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jv-codes&layout=compact&theme=dracula&langs_count=6"/>
 </div>
 
 ## 💻 Tecnologias que uso
