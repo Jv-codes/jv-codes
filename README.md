@@ -17,20 +17,17 @@
 
 ## 🌐 Redes Sociais
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.instagram.com/jv.codes?igsh=OGd6a3Nxc3RjeXdy">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-    </td>
-    <td>
-      <a href="#">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.instagram.com/jv.codes?igsh=OGd6a3Nxc3RjeXdy">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<!-- LinkedIn será adicionado em breve -->
 
 
 ---
